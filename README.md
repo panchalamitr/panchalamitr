@@ -19,6 +19,8 @@
 
 <br>
 
+### 🔗 Know more about me 
+
   <a href="https://www.linkedin.com/in/amit-panchal-6423751b0/">
     <img align="left" alt="Amit Panchal | Linkedin" width="24px" src="https://github.com/PanchalAmitR/panchalamitr/blob/master/Assets/Linkedin.svg" />
   </a>
